@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Malliksiddarth graduated from Florida State University with master's in Data Science🎓.
+- 👋 Hi, I’m Malliksiddarth graduated from Florida State University🎓.
 - 👀 I’m interested in Data Streaming, Data Mining and Statistical Analysis, Database Management and visualization. 
 
 <!---
