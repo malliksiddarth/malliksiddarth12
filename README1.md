@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malliksiddarth graduated from Florida State University🎓.
-- 👀 I’m interested in Data Streaming, Data Mining and Statistical Analysis, Database Management and visualization. 
+- 👀 I’m interested in Data Streaming, Data Mining, Statistical Analysis, Database Management and visualization. 
 
 <!---
 malliksiddarth/malliksiddarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
